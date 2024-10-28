@@ -123,7 +123,4 @@ This project uses OpenAPI for API documentation. Access it via:
 ---
 
 ## License
-This project is licensed under the MIT License.
-```
-
-This template provides an organized overview of your Spring Boot application. Let me know if you need additional customization for specific setup details or dependencies.
+This project is licensed under the Apache-2.0 License.
